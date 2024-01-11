@@ -2,8 +2,7 @@ D. All of the above
 False
 True
 B. 3
-A. Sales
-organization, distribution channel, Division
+A. Sales organization, distribution channel, Division
 D. All of above
 B. Customer
 False
