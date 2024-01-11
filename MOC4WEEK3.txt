@@ -4,7 +4,7 @@
 (b) The key used in Caesar cipher should be made publicly available to allow the receiver to decrypt the message
 (a) The same key is used by both the sender and the receiver to encrypt and decrypt a message
 (d) A secret message should be encrypted using the public key of the receiver and decrypted using the private key of the receiver
-(a) The message will need to be encrypted using the sender’s private key. Anyone can then use the sender’s public key to decrypt it, and thereby verify that it must have been encrypted (signed) by that particular sender.
+(a) The message will need to be encrypted using the sender's private key. Anyone can then use the sender's public key to decrypt it, and thereby verify that it must have been encrypted (signed) by that particular sender.
 (c) Intrusion detection systems cannot look inside the contents of the data packets, and therefore only use traffic filtering rules.
 (d) All of the above
 (a) Responsible Disclosure
