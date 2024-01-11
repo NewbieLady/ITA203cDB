@@ -1,11 +1,11 @@
-Definitive.
+c. Definitive.
 False
-Intangible.
+b. Intangible.
 True
 True
-Market value.
-Growth option.
-NPV based business case.
-Market.
-Terminate the project and reallocate resources to a more profitable project.
-Real Options analysis.
+b. Market value.
+c. Growth option.
+a. NPV based business case.
+c. Market.
+b. Terminate the project and reallocate resources to a more profitable project.
+b. Real Options analysis.
