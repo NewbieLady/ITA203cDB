@@ -1,10 +1,10 @@
 False
-Strategic systems
-Execute multiple projects in a given year. 
-Providing competitive advantage or reducing competitive disadvantage.
-Firm wide infrastructure
+d. Strategic systems
+b. Execute multiple projects in a given year. 
+c. Providing competitive advantage or reducing competitive disadvantage.
+a. Firm wide infrastructure
 True
-The incentives for users to consume IT services prudently.
+b. The incentives for users to consume IT services prudently.
 True
 True
 True
