@@ -1,0 +1,10 @@
+Entities
+Attributes
+Process, data flow, data store, external entity
+Context diagram depicts data flows, sequences of events are not depicted. Process flow depicts the process. Non-data elements are included. Sequence matters. 
+Logical DFD
+Through structured english, decision tree, or decision table
+A start event, sequence flow, task, gateway “decision”, and end event
+Cardinality
+Supertype
+Subtype

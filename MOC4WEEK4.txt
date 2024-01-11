@@ -1,0 +1,10 @@
+(d) Blockchain is designed as a centralized solution so that a single entity can control it and validate all transactions.
+(b) The cryptocurrency used in Ethereum are called Bitcoins 
+(d) All of the above.
+(d) Miners will use the public key to compute the private key of the sender
+(d) All of the above.
+(d) All of the above.
+(b) Blockchain
+(a) Traditional database
+(b) Permissioned blockchain
+(d) All of the above.

@@ -1,0 +1,10 @@
+D. A and B only    
+True
+True
+D. B and C only
+D. A and B only
+E. B and C only
+True
+C. Database, Application, Presentation
+False
+D. All of above

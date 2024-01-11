@@ -1,0 +1,10 @@
+False
+Yes
+In a state machine diagram, various states of an object in a program are represented by arrows throughout the diagram.
+One of the drawbacks to outsourcing software development is that it is harder to control the quality of the design and ensure that it meets the necessary requirements.
+The scores of an Alternative Matrix should only be considered as a factor in the decision-making process for a firm, and should be weighed against other external criteria by an experienced leader responsible for the system’s development.
+Business Intelligence Architecture
+True
+When additional features are requested during the implementation phase of a project, thus increasing the cost and time required to complete said project.
+False
+True

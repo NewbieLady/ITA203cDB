@@ -1,0 +1,10 @@
+Work Plan
+All of the above
+Context diagram
+Plan, Analyze, Design, Implement
+Iteration
+Iteratively delivers features via sprints
+All of the above
+Plan
+None of the above
+All of the above

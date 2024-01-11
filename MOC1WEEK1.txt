@@ -1,0 +1,17 @@
+IT governances impacts IT-Business Alignment, and IT-Business Alignment impacts Firm Performance.
+True
+All of the above.
+All of the above.
+Feudal
+All of the above.
+IT Principle
+CEO
+Define IT principles.
+False
+True
+Standardized business processes across the organization.
+Enterprise-wide process owners.
+Unification.
+Application Silo, Standardized Technology, Rationalized Data/Optimized Core, Modular Architecture.
+Experiments to meet local needs.
+Operational efficiency.

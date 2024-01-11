@@ -1,0 +1,10 @@
+Analyze
+Multiple
+[Condition] [Subject] [Action] [Object] [Constraint]
+[Condition] [Action or Constraint] [Value]
+True
+True
+Forward Traceability
+Analyze
+Fully-dressed
+<<extend>> <<include>>

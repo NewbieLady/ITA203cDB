@@ -1,0 +1,11 @@
+Definitive.
+False
+Intangible.
+True
+True
+Market value.
+Growth option.
+NPV based business case.
+Market.
+Terminate the project and reallocate resources to a more profitable project.
+Real Options analysis.

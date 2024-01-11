@@ -1,0 +1,10 @@
+(d) All of the above
+(d) All of the above
+(b) Load balancer
+(d) Requires virtualization of the client’s machine
+(d) All of the above
+(b) Virtualization
+(a) Public cloud
+(d) Hybrid Cloud
+(c) IaaS
+(d) All of the above
